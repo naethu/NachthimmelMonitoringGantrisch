@@ -1,3 +1,3 @@
 ## Go directly to our Documentation
 
-[**Documenation →**](https://nachthimmel-monitoring-gantrisch-docs.vercel.app/
+<a href="https://nachthimmel-monitoring-gantrisch-docs.vercel.app/" target="_blank"><strong>Documentation</strong></a>
